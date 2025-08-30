@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "GCG",
+    "GRG",
+    "BBB"
+  ],
+  "key": {
+    "C": [
+      {
+        "item": "minecraft:slime_ball"
+      }
+    ],
+    "R": [
+      {
+        "item": "immersive_aircraft:engine"
+      }
+    ],
+    "G": [
+      {
+        "item": "minecraft:gold_ingot"
+      }
+    ],
+    "B": [
+      {
+        "item": "minecraft:brick"
+      }
+    ]
+  },
+  "result": {
+    "item": "more_engines:semi_eco_engine"
+  }
+}

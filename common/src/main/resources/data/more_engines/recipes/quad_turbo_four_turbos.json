@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "more_engines:turbo"
+    },
+    {
+      "item": "more_engines:turbo"
+    },
+    {
+      "item": "more_engines:turbo"
+    },
+    {
+      "item": "more_engines:turbo"
+    }
+  ],
+  "result": {
+    "item": "more_engines:quad_turbo"
+  }
+}

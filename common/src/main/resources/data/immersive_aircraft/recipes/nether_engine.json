@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "CNC",
+    "BEB",
+    "RRR"
+  ],
+  "key": {
+    "C": [
+      {
+        "item": "minecraft:netherite_upgrade_smithing_template"
+      }
+    ],
+    "B": [
+      {
+        "item": "minecraft:blaze_rod"
+      }
+    ],
+    "R": [
+      {
+        "item": "minecraft:nether_brick"
+      }
+    ],
+    "N": [
+      {
+        "item": "minecraft:netherite_ingot"
+      }
+    ],
+    "E": [
+      {
+        "item": "more_engines:jet_engine"
+      }
+    ]
+  },
+  "result": {
+    "item": "immersive_aircraft:nether_engine"
+  }
+}

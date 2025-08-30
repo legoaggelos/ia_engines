@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "CCC",
+    "CRC",
+    "CCC"
+  ],
+  "key": {
+    "C": [
+      {
+        "item": "minecraft:slime_ball"
+      }
+    ],
+    "R": [
+      {
+        "item": "more_engines:semi_eco_engine"
+      }
+    ]
+
+  },
+  "result": {
+    "item": "immersive_aircraft:eco_engine"
+  }
+}

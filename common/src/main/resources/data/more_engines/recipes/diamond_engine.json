@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "DPD",
+    "PRP",
+    "DPD"
+  ],
+  "key": {
+    "D": [
+      {
+        "item": "minecraft:diamond"
+      }
+    ],
+    "P": [
+      {
+        "item": "minecraft:piston"
+      }
+    ],
+    "R": [
+      {
+        "item": "more_engines:gold_engine"
+      }
+    ]
+  },
+  "result": {
+    "item": "more_engines:diamond_engine"
+  }
+}

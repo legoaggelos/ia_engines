@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "RFR",
+    "RMR",
+    "PPP"
+  ],
+  "key": {
+    "F": [
+      {
+        "item": "immersive_aircraft:propeller"
+      }
+    ],
+    "P": [
+      {
+        "item": "minecraft:copper_ingot"
+      }
+    ],
+    "R": [
+      {
+        "item": "minecraft:iron_ingot"
+      }
+    ],
+    "M": [
+      {
+        "item": "minecraft:redstone"
+      }
+    ]
+  },
+  "result": {
+    "item": "more_engines:turbo"
+  }
+}

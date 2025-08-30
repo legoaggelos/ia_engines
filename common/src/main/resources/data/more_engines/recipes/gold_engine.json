@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "BGB",
+    "PRP",
+    "BGB"
+  ],
+  "key": {
+    "G": [
+      {
+        "item": "minecraft:gold_ingot"
+      }
+    ],
+    "B": [
+      {
+        "item": "minecraft:gold_block"
+      }
+    ],
+    "P": [
+      {
+        "item": "minecraft:piston"
+      }
+    ],
+    "R": [
+      {
+        "item": "more_engines:reinforced_engine"
+      }
+    ]
+  },
+  "result": {
+    "item": "more_engines:gold_engine"
+  }
+}

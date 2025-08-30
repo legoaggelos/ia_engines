@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "DPD",
+    "RMR",
+    "DFD"
+  ],
+  "key": {
+    "F": [
+      {
+        "item": "immersive_aircraft:propeller"
+      }
+    ],
+    "D": [
+      {
+        "item": "minecraft:string"
+      }
+    ],
+    "P": [
+      {
+        "item": "minecraft:copper_ingot"
+      }
+    ],
+    "R": [
+      {
+        "item": "minecraft:iron_ingot"
+      }
+    ],
+    "M": [
+      {
+        "item": "minecraft:redstone"
+      }
+    ]
+  },
+  "result": {
+    "item": "more_engines:supercharger"
+  }
+}

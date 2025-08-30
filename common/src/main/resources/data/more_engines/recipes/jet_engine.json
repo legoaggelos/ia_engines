@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "PPP",
+    "PRP",
+    "PPP"
+  ],
+  "key": {
+    "P": [
+      {
+        "item": "minecraft:piston"
+      }
+    ],
+    "R": [
+      {
+        "item": "more_engines:diamond_engine"
+      }
+    ]
+  },
+  "result": {
+    "item": "more_engines:jet_engine"
+  }
+}
