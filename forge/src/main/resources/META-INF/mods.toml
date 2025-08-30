@@ -1,0 +1,36 @@
+modLoader = "javafml"
+loaderVersion = "[47,)"
+issueTrackerURL = "https://github.com/legoaggelos/ia_engines/issues"
+license = "MIT"
+
+[[mods]]
+modId = "more_engines"
+version = "1.0.0"
+displayName = "Immersive Aircraft: Better Engines"
+authors = "legoaggelos"
+description = '''
+Adds new engines to immersive aircraft, as well as other new upgrades.
+'''
+#logoFile = ""
+
+[[dependencies.more_engines]]
+modId = "forge"
+mandatory = true
+versionRange = "[47,)"
+ordering = "NONE"
+side = "BOTH"
+
+[[dependencies.more_engines]]
+modId = "minecraft"
+mandatory = true
+versionRange = "[1.20.1,)"
+ordering = "NONE"
+side = "BOTH"
+
+[[dependencies.more_engines]]
+modId = "immersive_aircraft"
+mandatory = true
+versionRange = "[1.3.3,)"
+ordering = "NONE"
+side = "BOTH"
+
